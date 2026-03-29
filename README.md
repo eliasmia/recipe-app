@@ -5,4 +5,4 @@ A modern and responsive recipe search web app built with HTML, CSS, and JavaScri
 # Assignment : 03
 ### Name : Md. Elias Mia
 ### Email: eliasmia1988@gmail.com
-### Live url:
+### Live url: https://eliasmia.github.io/recipe-app/
